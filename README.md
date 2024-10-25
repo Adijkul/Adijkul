@@ -1,1 +1,1 @@
- This is Power-BI end to end project
+ This is PowerBI end to end project
